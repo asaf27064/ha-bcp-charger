@@ -1,0 +1,14 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "data": {
+            "api_url": "BCP Charger API URL"
+          },
+          "description": "Enter the API URL of your BCP Charger Add-on.",
+          "title": "Configure BCP Charger"
+        }
+      }
+    }
+  }
+  

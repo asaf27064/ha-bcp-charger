@@ -1,0 +1,7 @@
+start_charging:
+  description: "Start charging the BCP EV Charger"
+  fields: {}
+
+stop_charging:
+  description: "Stop charging the BCP EV Charger"
+  fields: {}
