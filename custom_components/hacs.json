@@ -1,0 +1,11 @@
+{
+    "name": "BCP Charger",
+    "description": "Integration for BCP/Z-Box EV chargers in Home Assistant.",
+    "domain": "bcp_charger",
+    "homeassistant": "2022.5.0",
+    "country": ["worldwide"],
+    "codeowners": ["@YOUR_GITHUB_USERNAME"],
+    "requirements": [],
+    "config_flow": true
+  }
+  
