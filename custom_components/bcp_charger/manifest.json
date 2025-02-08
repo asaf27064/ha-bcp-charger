@@ -1,10 +1,11 @@
 {
-    "domain": "bcp_charger",
-    "name": "BCP Charger",
-    "documentation": "https://github.com/YOUR_GITHUB_USERNAME/ha-bcp-charger",
-    "dependencies": [],
-    "codeowners": ["@YOUR_GITHUB_USERNAME"],
-    "requirements": ["requests"],
-    "version": "1.0.0",
-    "config_flow": true
-  }
+  "domain": "bcp_charger",
+  "name": "BCP Charger",
+  "documentation": "https://github.com/asaf27064/ha-bcp-charger",
+  "dependencies": [],
+  "codeowners": ["@asaf27064"],
+  "requirements": ["requests"],
+  "version": "1.0.0",
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
